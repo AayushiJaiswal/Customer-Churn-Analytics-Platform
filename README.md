@@ -216,6 +216,28 @@ Processing Mode	Local
 Scalability	Dataset-dependent
 Dashboard Interactivity	Real-time
 Deployment Ready	Yes
+
+Live Demo (Snowflake Streamlit App)
+
+The Customer Churn Analytics Platform is deployed as a Snowflake Streamlit Application, enabling secure and scalable access to interactive analytics directly within the Snowflake ecosystem.
+
+Live Demo Highlights:
+
+Hosted natively inside Snowflake Streamlit Apps
+
+Real-time querying of customer data from Snowflake tables
+
+Interactive dashboards with churn metrics, filters, and visualizations
+
+Role-based access aligned with enterprise security standards
+
+👉 Live Demo URL: 
+[https://app.snowflake.com/qdiehmk/el23050/#/streamlit-apps/CHURN_DB.ANALYTICS.X77GQAEAJQQVF_BC]
+
+🔒 Access Note:
+This live demo is available to authorized Snowflake users via role-based access control.
+The application is intended to demonstrate enterprise-grade deployment rather than public hosting.
+
 🖼️ Application Output / Screenshots
 🔹 Interactive Dashboard
 
